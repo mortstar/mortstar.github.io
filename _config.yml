@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Dr Amy Webber - Physics Tutor in Oxfordshire
 email: mailme@mailme.com
-description: Stylish Portfolio is a responsive, one page portfolio theme for Bootstrap created by Start Bootstrap. The theme features multiple content sections with an off canvas navigation menu.
+description: Dr Amy Webber offering Physics tutoring services in Oxford and Oxfordshire area as well as remotely.
 
 baseurl: "https://www.dramywebber.co.uk/" # the subpath of your site, e.g. /blog
 url: "https://www.dramywebber.co.uk/" # the base hostname & protocol for your site, e.g. http://example.com
