@@ -324,6 +324,7 @@ footer.footer .social-link {
   transition: background-color 0.15s ease-in-out;
   -webkit-box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.1);
   box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.1);
+  color: #1D809F;
 }
 
 footer.footer .social-link:hover {
